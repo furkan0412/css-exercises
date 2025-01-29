@@ -3,6 +3,17 @@
     font-family: Verdana, "Devaju Sans", Sans-serif;
 }
 
+#number-one{
+    font-size: 36px;
+    color: #0023ff;
+}
+
+#number-two{
+    background-color: #1bff00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
 .number-three{
     font-size: 24px;
 }
