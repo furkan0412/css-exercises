@@ -1,0 +1,13 @@
+.unique-first {
+    color: white;
+    background-color: black;
+}
+
+.unique-second {
+    background-color: yellow;
+}
+
+.font-styling {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
