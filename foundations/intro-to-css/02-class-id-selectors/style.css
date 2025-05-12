@@ -1,0 +1,20 @@
+.styling-elements {
+    background-color: hsl(350, 91%, 83%);
+    font-family: "Verdana", "DejuVu Sans", sans-serif;
+}
+
+#first-id {
+    color: hsl(240, 100%, 58%);
+    font-size: 36px;
+    font-weight: 600;
+}
+
+#second-id {
+    background-color: hsl(120, 95%, 75%);
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.styling-elements.text-styling {
+    font-size: 24px;
+}
